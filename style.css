@@ -1,0 +1,21 @@
+* {
+	text-align: center;
+	font-size: 50px;
+}
+
+body {
+	background-color: #baeaff;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+.entree {
+	color: #000;
+	position: relative;
+	border: 3px solid black;
+	margin: 1em;
+	padding: 0.5em 0;
+	background-color: #ff5;
+}
