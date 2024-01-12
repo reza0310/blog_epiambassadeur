@@ -5,6 +5,8 @@
 
 body {
 	background-color: #baeaff;
+	margin: 0;
+	padding: 0;
 }
 
 a:visited {
@@ -13,13 +15,28 @@ a:visited {
 
 .entree {
 	color: #000;
-	position: relative;
+	border-radius: 25px;
+	display: inline-block;
 	border: 3px solid black;
 	margin: 1em;
 	padding: 0.5em 0;
 	background-color: #ff5;
 }
 
+.petite {
+	width: 25%;
+}
+
+.grande {
+	width: 50%;
+}
+
 .logo {
-	height: 1.8em;
+	height: 100%;
+}
+
+.bande {
+	height: 3em;
+	width: 100%;
+	background-color: #01445f;
 }
