@@ -23,6 +23,10 @@ a:visited {
 	background-color: #ff5;
 }
 
+.entree:hover {
+	background-color: #fe4;
+}
+
 .petite {
 	width: 25%;
 }
